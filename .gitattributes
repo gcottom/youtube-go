@@ -1,0 +1,2 @@
+# Keep vendored release assets byte-for-byte identical across platforms.
+youtube/ejs/*.min.js -text
